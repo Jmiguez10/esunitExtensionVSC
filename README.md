@@ -1,2 +1,2 @@
 # esunitExtensionVSC
-For extension visual studio code
+For extension visual studio code eSunit
